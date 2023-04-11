@@ -1,8 +1,8 @@
 # 卒業制作情報共有用リポジトリ(2022年度入学生)
 
-- [日程](sch.md)
 - [Slack](https://datgm22.slack.com/)
 - [シラバス](https://drive.google.com/file/d/13StheBgvLiuyK6YiZptmtXMQ6TlpnEQP/view?usp=sharing)
+- [講義日程](sch.md)
 
 ## 短期目標
 - 6/27(火) 4時限目 中間発表会
