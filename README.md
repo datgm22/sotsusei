@@ -18,6 +18,7 @@
 
 ### 話題
 - [桜井政博のゲーム作るには. そだてて！甲虫王者ムシキング 【企画コンセプト】](https://www.youtube.com/watch?v=qflzss--xME)
+- [ゲームクリエイターズギルド. 『ReverseRoom – リバースルーム -』インタビュー](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
 
 ### 予定
 - 1日目 企画提案のまとめと共有
