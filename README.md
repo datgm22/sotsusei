@@ -26,5 +26,6 @@
     - 主題(テーマ)と手段(コンセプト)
     - 試遊版の規模
     - 参考 [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
+    - [資料の共有URLをこちらへ報告](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
 - 2日目 企画提案の発表
   - チームの再検討
