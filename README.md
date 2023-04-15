@@ -28,5 +28,7 @@
     - 試遊版の規模
     - 参考 [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
     - [資料の共有URLをこちらへ報告](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
-- 2日目 企画提案の発表
-  - チームの再検討
+- 2日目 WBSの作業
+  - 企画が不明瞭なチームは引き続き、企画のテーマとコンセプトの定義
+  - テーマとコンセプトがまとまったチームは、[内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)を参考に起動からの動作を大項目で挙げ、次に中項目に分解し、必要に応じて小項目に分解する。最終的に一人一人に割り当てられる作業単位まで開発項目を分解する。また、必要なリソースのリストも作成する
+  - 最後にチームごとに簡単に状況を報告
