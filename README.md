@@ -17,6 +17,7 @@
 ## 1週目
 
 ### 話題
+- [Unreal Editor for Fortnite (UEFN)](https://dev.epicgames.com/documentation/ja-jp/uefn/unreal-editor-for-fortnite-documentation)
 - [桜井政博のゲーム作るには. そだてて！甲虫王者ムシキング 【企画コンセプト】](https://www.youtube.com/watch?v=qflzss--xME)
 - [ゲームクリエイターズギルド. 『ReverseRoom – リバースルーム -』インタビュー](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
 
