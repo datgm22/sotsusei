@@ -28,7 +28,7 @@
     - 試遊版の規模
     - 参考 [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
     - [資料の共有URLをこちらへ報告](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
-- 2日目 金曜日にWBSをまとめる方向で作業
+- 2日目 金曜日にWBSをまとめる方向でGoogleドキュメントで作業
   - 企画が不明瞭なチームは引き続き、企画のテーマとコンセプトの定義
   - テーマとコンセプトがまとまったチームは、[内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)を参考にWBSを作成する
     - 起動からの動作を考えて、必要な状態を大項目として挙げる
