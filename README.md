@@ -47,3 +47,11 @@
       - 中：間に合えば入れるべき項目。SHOULD / RECOMMENDEDに該当
       - 低：中項目が入れ終わった後に更に余裕があれば入れることを検討する項目。MAY / OPTIONALに該当
   - コマの最後にチームごとに簡単に状況を報告
+
+### Unityでモック画面を作る時の推奨アセット
+- TextMeshPro
+- Pro Builder
+- Unity公式テンプレート Third Person
+- Asset Storeで`free sky`で検索した空
+- Post Processing
+
