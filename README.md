@@ -28,11 +28,12 @@
     - 試遊版の規模
     - 参考 [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
     - [資料の共有URLをこちらへ報告](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
-- 2日目 WBSの作成
+- 2日目 企画構想とWBSの作成
   - 木曜日も作業をして、金曜日にWBSをまとめることを目標に作業
   - 資料はGoogleドキュメント、スライド、スプレッドシートなどまとめやすいものを選ぶ。まずはGoogleドキュメントにまとめて必要に応じて他のツールの利用を考えるのがよさそう
   - 企画が不明瞭なチームは引き続き、企画のテーマとコンセプトの定義
   - テーマとコンセプトがまとまったチームは、[内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)を参考にWBSを作成する
+    - 参考 [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/
     - 起動からの動作を考えて、必要な状態を大項目として挙げる
     - 各状態について切り替えからの動作を考えて、中項目に分解する
     - ゲーム中などの中項目に更に多数の動作が必要なものについては、小項目に分解する
