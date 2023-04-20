@@ -21,6 +21,7 @@
 - [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
 - [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
 - [OpenAI](https://openai.com/)
+- [吉冨賢介. ゲームプランナー入門　アイデア・企画書・仕様書の技術から就職まで](https://gihyo.jp/book/2019/978-4-297-10512-9)
 
 ### 画像取り込みツール
 - [CamScanner Android版](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US&pli=1)
