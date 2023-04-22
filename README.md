@@ -17,6 +17,7 @@
 ## 2週目
 
 ### 話題・参考
+- [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
 - [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
 - [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
