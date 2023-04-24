@@ -5,6 +5,16 @@
 - [Slack](https://datgm22.slack.com/)
 - [火木 講義日程](sch.md)
 
+## 参考URL
+- [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
+- [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
+- [OpenAI](https://openai.com/)
+- [吉冨賢介. ゲームプランナー入門　アイデア・企画書・仕様書の技術から就職まで](https://gihyo.jp/book/2019/978-4-297-10512-9)
+- 画像取り込みツール CamScanner
+  - [CamScanner Android版](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US&pli=1)
+  - [CamScanner iOS版](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783)
+
+
 ## 短期目標
 - 6/27(火) 4時限目 中間発表会
   - ゲームプログラム、ゲームCG合同でそれぞれのチームの成果物をプレゼン
@@ -14,19 +24,13 @@
 - 1年生で検討していた企画について現状を整理
 - 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
-## 2週目
+## 2週目 企画概要を固める
 
 ### 話題・参考
-- [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
 - [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
 - [ゲームクリエイター甲子園2022. 応募作品一覧](https://gameparade.creators-guild.com/)
-- [OpenAI](https://openai.com/)
-- [吉冨賢介. ゲームプランナー入門　アイデア・企画書・仕様書の技術から就職まで](https://gihyo.jp/book/2019/978-4-297-10512-9)
 
-### 画像取り込みツール
-- [CamScanner Android版](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US&pli=1)
-- [CamScanner iOS版](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783)
 
 ### 2日目予定
 - 1コマ目 企画構想とWBSの確定
