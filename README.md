@@ -33,6 +33,8 @@
 
 
 ### 2日目予定
+- ドキュメント共有用アドレス収集
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)を開いて、「URLなど」欄に企画のゲーム名を入力して送信
 - 1コマ目 企画構想とWBSの確定
   - テーマとコンセプトを軸にした企画概要を各チームごとに確定
   - 参考 [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
