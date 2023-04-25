@@ -26,6 +26,13 @@
 
 ## 2週目 企画概要を固める
 
+### 打ち合わせ用ドキュメント
+- [ホップホップアドベンチャー](https://docs.google.com/document/d/1-VGXqAFYWYy4uI3OAxxPlNYZDJAb4GuScCF3P8zCqUY/edit?usp=sharing)
+- [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing)
+- [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
+- [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
+
+
 ### 話題・参考
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
 - [Voxelorer Bird Open版企画構想](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
