@@ -28,6 +28,7 @@
 
 ### 話題
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
+- [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
 - [電ファミニコゲーマー. 柴犬が自我を失った人類を導くゲーム『HUMANITY』](https://news.denfaminicogamer.jp/kikakuthetower/230427a)
 
 ## 2週目 企画概要を固める
