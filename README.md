@@ -24,14 +24,16 @@
 - 1年生で検討していた企画について現状を整理
 - 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
-## 3週目
+## 3, 4週目
+
+1. 中間発表会向けの作業項目リストの作成
+1. 仕様書の作成
+1. WBSにまとめて、作業と担当をIssuesに登録
 
 ### 話題
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
 - [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
 - [電ファミニコゲーマー. 柴犬が自我を失った人類を導くゲーム『HUMANITY』](https://news.denfaminicogamer.jp/kikakuthetower/230427a)
-
-## 2週目 企画概要を固める
 
 ### 打ち合わせ用ドキュメント
 - [ホップホップアドベンチャー](https://docs.google.com/document/d/1-VGXqAFYWYy4uI3OAxxPlNYZDJAb4GuScCF3P8zCqUY/edit?usp=sharing)
@@ -39,6 +41,13 @@
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
+### 予定
+- チームごとに中間発表会向けの試作内容の確定と作業項目リストの作成
+  - Googleスプレッドシートで仕様書を作成して共有
+- 画面レイアウトの作成や素材集め
+<!--  - 参考 [投げ機仕様書]() -->
+
+## 2週目 企画概要を固める
 
 ### 話題・参考
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
