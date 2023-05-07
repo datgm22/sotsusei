@@ -26,9 +26,13 @@
 
 ## 3, 4週目
 
+- 参考
+  - [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+  - [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+
 1. 中間発表会向けの作業項目リストの作成
 1. 仕様書の作成
-1. WBSにまとめて、作業と担当をIssuesに登録
+1. 作業と担当をIssuesに登録
 
 ### 話題
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
