@@ -45,10 +45,16 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
 ### 予定
-- チームごとに中間発表会向けの試作内容の確定
-- 作業項目リストの作成
-- 仕様書の作成
+- 仕様書について説明
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)をコピーして共有
+  - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+- 中間発表会向けの試作内容を確定して、企画構想書を完成させる
+  - 講師との打ち合わせ以外の時間は、チーム内で企画の足りない部分を決めたり、各状態の画面レイアウトを作成したり、素材を集めたりして作業を進める
+- 仕様書の作成
+  - 作業項目リストの作成
+  - 各状態について掘り下げてまとめる
+  - 必要な素材をまとめる
+  - ゲームシステムを構成するクラスの設計
 - 画面レイアウトの作成や素材集め
 - 仕様書から作業項目を抜き出してGitHubのIssuesに登録
 - GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
