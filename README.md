@@ -45,11 +45,13 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
 ### 予定
-- チームごとに中間発表会向けの試作内容の確定と作業項目リストの作成
-  - 仕様書テンプレートをコピーして共有
-  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
-- 作業と担当をGitHubのIssuesに登録
+- チームごとに中間発表会向けの試作内容の確定
+- 作業項目リストの作成
+- 仕様書の作成
+  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)をコピーして共有
+- 仕様書から作業項目を抜き出してGitHubのIssuesに登録
 - GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
+- 作業の割り当てとスケジュール作成
 - 画面レイアウトの作成や素材集め
 
 
