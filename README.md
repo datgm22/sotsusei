@@ -32,7 +32,9 @@
 
 1. 中間発表会向けの作業項目リストの作成
 1. 仕様書の作成
-1. 作業と担当をIssuesに登録
+   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
+1. 作業と担当をGitHubのIssuesに登録
+1. GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 
 ### 話題
 - [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
