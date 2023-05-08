@@ -35,6 +35,7 @@
 1. 作業と担当をIssuesに登録
 
 ### 話題
+- [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
 - [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
 - [電ファミニコゲーマー. 柴犬が自我を失った人類を導くゲーム『HUMANITY』](https://news.denfaminicogamer.jp/kikakuthetower/230427a)
