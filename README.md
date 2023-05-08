@@ -44,7 +44,7 @@
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
-### 予定
+### 3週目予定
 - 仕様書について説明
   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)をコピーして共有
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
@@ -54,11 +54,14 @@
   - 作業項目リストの作成
   - 各状態について掘り下げてまとめる
   - 必要な素材をまとめる
-  - ゲームシステムを構成するクラスの設計
 - 画面レイアウトの作成や素材集め
+
+### 4週目予定
+- ゲームシステムを構成するクラスの設計
 - 仕様書から作業項目を抜き出してGitHubのIssuesに登録
 - GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 - 作業の割り当てとスケジュール作成
+- 画面レイアウトの作成や素材集め
 
 
 ## 2週目 企画概要を固める
