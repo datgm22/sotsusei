@@ -24,17 +24,13 @@
 - 1年生で検討していた企画について現状を整理
 - 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
+## 参考
+- [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+- [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+- [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/edit?usp=sharing)
+- [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
+
 ## 3, 4週目
-
-- 参考
-  - [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
-  - [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
-
-1. 中間発表会向けの作業項目リストの作成
-1. 仕様書の作成
-   - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
-1. 作業と担当をGitHubのIssuesに登録
-1. GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 
 ### 話題
 - [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
@@ -50,9 +46,12 @@
 
 ### 予定
 - チームごとに中間発表会向けの試作内容の確定と作業項目リストの作成
-  - Googleスプレッドシートで仕様書を作成して共有
+  - 仕様書テンプレートをコピーして共有
+  - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
+- 作業と担当をGitHubのIssuesに登録
+- GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 - 画面レイアウトの作成や素材集め
-<!--  - 参考 [投げ機仕様書]() -->
+
 
 ## 2週目 企画概要を固める
 
