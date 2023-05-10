@@ -33,6 +33,7 @@
 ## 3, 4週目
 
 ### 話題
+- [ゲームクリエイターズギルド公式ch. ゲーム企画書で陥りやすい3つの失敗とは？](https://youtu.be/-6tDpWFbgQI)
 - [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
 - [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
