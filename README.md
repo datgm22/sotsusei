@@ -42,7 +42,7 @@
      - 難易度
   4. 頭の中で遊んだか？
      - 「頭の中にイメージがあります」は、聞いたら即答できるし、画面イメージなどもすぐに書き出せる状態のこと。質問されて言いよどむところがある状態ではないので使い方に気を付ける。一般的には使わない方が良い
-     - 頭で思い描けない場合は、UnityやGDevelop、ティラノスクリプトなどで試してみて、それを企画に書き戻す
+     - 頭で思い描けない場合は、UnityやGDevelop、ティラノスクリプトなどで試してみて、それを企画に書き戻すやり方もある
 - [RPG Maker Unite](https://assetstore.unity.com/packages/2d/gui/rpg-maker-unite-please-read-the-description-about-early-bird-bon-253689#publisher)
 - [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
 - [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
