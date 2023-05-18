@@ -32,6 +32,17 @@
 - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
 - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
 
+## 5～8週目 開発
+
+### 5週目予定
+- Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
+- モック画面の作成
+- ゲームシステムを構成するクラスの設計
+- 仕様書から作業項目を抜き出してGitHubのIssuesに登録
+- GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
+- 作業の割り当てとスケジュール作成
+
+
 ## 3, 4週目
 
 ### 話題
