@@ -25,6 +25,7 @@
 - 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
 ## 参考
+- [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
 - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
 - [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
 - [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
