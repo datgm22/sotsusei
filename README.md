@@ -38,6 +38,7 @@
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
 - モック画面の作成
 - ゲームシステムを構成するクラスの設計
+  - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)つづき
 - 仕様書から作業項目を抜き出してGitHubのIssuesに登録
 - GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 - 作業の割り当てとスケジュール作成
