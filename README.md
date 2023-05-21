@@ -1,6 +1,6 @@
 # 卒業制作情報共有用リポジトリ(2022年度入学生)
 
-- [シラバス](https://drive.google.com/file/d/13StheBgvLiuyK6YiZptmtXMQ6TlpnEQP/view?usp=sharing)
+- [シラバス](https://drive.google.com/file/d/13StheBgvLiuyK6YiZptmtXMQ6TlpnEQP/)
 - [Google Meet](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com/)
 - [火木 講義日程](sch.md)
@@ -32,12 +32,12 @@
 - [企画構想書テンプレート](https://docs.google.com/document/d/1VtRoODgC0lQ9ch7H-Mcx0GqqLtVlkcAjQ7JxabvHKdM/)
 - [仕様書テンプレート](https://docs.google.com/spreadsheets/d/10r_mopqDkAy17NXbE-_4WVjptQVDUPI2k5XsUF2YT44/)
 
-## 5～8週目 開発
+## 5～7週目 開発
 
 ### 話題
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
 
-### 5週目予定
+### 5週目予定(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
 - モック画面の作成
 - ゲームシステムを構成するクラスの設計
