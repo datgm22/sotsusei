@@ -42,11 +42,20 @@
 - モック画面の作成
 - ゲームシステムを構成するクラスの設計
   - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)つづき
-- 仕様書から作業項目を抜き出してGitHubのIssuesに登録
-- GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
+- 作業の管理の練習 GitHub IssuesとProjects
+  - 「シーンを揃える」という項目をIssueに追加する
+  - [GitHubイシュー](https://docs.github.com/ja/issues)について学ぶ
+    - 概要でIssueについての概要を把握
+    - クイックスタートでイシューを新規作成
+    - [ラベル](https://docs.github.com/ja/issues/using-labels-and-milestones-to-track-work/managing-labels)について
+    - [マイルストーン](https://docs.github.com/ja/issues/using-labels-and-milestones-to-track-work/about-milestones)について
+      - 参考 [ITを分かりやすく解説. マイルストーンとは](https://medium-company.com/%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3/)
+      - 中間発表会が最初のマイルストーンでまずはそこまでの短期開発なので今回は不要
+    - アサイン
+    - [Projects](https://docs.github.com/ja/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)について
 - 作業の割り当てとスケジュール作成
-  - [GitHub Projectsについて](https://docs.github.com/ja/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-
+  - 仕様書を見ながら、作業をIssuesとProjectsに登録。状態は全てTodo
+  - 作業順を検討して、直近の作業をTodoからIn Progressへ移動
 
 ## 3, 4週目
 
