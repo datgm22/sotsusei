@@ -45,6 +45,7 @@
 - 仕様書から作業項目を抜き出してGitHubのIssuesに登録
 - GitHubにProjectを作成して、開発用リポジトリのIssuesと対応付ける
 - 作業の割り当てとスケジュール作成
+  - [GitHub Projectsについて](https://docs.github.com/ja/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
 
 ## 3, 4週目
