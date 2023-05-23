@@ -7,16 +7,16 @@
 
 ## 参考URL
 - [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
+- [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-- [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 - [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
-- [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
 - [OpenAI](https://openai.com/)
 - [吉冨賢介. ゲームプランナー入門　アイデア・企画書・仕様書の技術から就職まで](https://gihyo.jp/book/2019/978-4-297-10512-9)
 - 画像取り込みツール CamScanner
   - [CamScanner Android版](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja&gl=US&pli=1)
   - [CamScanner iOS版](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-pdf-%E5%A4%89%E6%8F%9B-%E7%BF%BB%E8%A8%B3-%E3%82%AB%E3%83%A1%E3%83%A9/id388627783)
+- [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 
 
 ## 短期目標
@@ -44,6 +44,7 @@
 ### 5週目予定(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
   - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+  - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - モック画面の作成
 - ゲームシステムを構成するクラスの設計
   - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)つづき
