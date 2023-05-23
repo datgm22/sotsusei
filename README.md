@@ -47,6 +47,9 @@
   - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
   - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - モック画面の作成
+- プレイヤーの設計
+  - Re:Verserのプレイヤーの移動を考える
+  - ホップホップのプレイヤーの移動を考える
 - ゲームシステムを構成するクラスの設計
   - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)つづき
 - 作業の管理の練習 GitHub IssuesとProjects
