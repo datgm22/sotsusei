@@ -41,7 +41,6 @@
 
 ### 話題
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
-- [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 ### 5週目予定(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
