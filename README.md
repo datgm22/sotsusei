@@ -7,6 +7,10 @@
 
 ## 参考URL
 - [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
+- [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+- [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
+- [Unityで使用する画像ファイル](https://docs.google.com/document/d/1KxhV1sL614Ui90LyaXOegaEkIFTg6c6eTam_ntYZl34/)
+- [グラフィックデータのまとめ方](https://docs.google.com/document/d/1I30TPQtOu5n3PwTNdGhL-SZ-ddVt98Ifira_Wp5n06U/)
 - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
 - [OpenAI](https://openai.com/)
 - [吉冨賢介. ゲームプランナー入門　アイデア・企画書・仕様書の技術から就職まで](https://gihyo.jp/book/2019/978-4-297-10512-9)
@@ -39,6 +43,7 @@
 
 ### 5週目予定(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
+  - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
 - モック画面の作成
 - ゲームシステムを構成するクラスの設計
   - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)つづき
