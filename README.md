@@ -43,6 +43,10 @@
 ### 話題
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
 
+### 6週目予定(5/30, 6/1)
+- [Re:verserの色変更](https://docs.google.com/document/d/1lHLePfDQFpzPQOz7mtcPhX8A3s2_m4hV81RQQlL9dx0/)
+- ホップホップのプレイヤーの移動を考える
+
 ### 5週目予定(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
   - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
