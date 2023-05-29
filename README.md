@@ -47,7 +47,7 @@
 - [Re:verserの色変更](https://docs.google.com/document/d/1lHLePfDQFpzPQOz7mtcPhX8A3s2_m4hV81RQQlL9dx0/)
 - ホップホップのプレイヤーの移動を考える
 
-### 5週目予定(5/23, 25)
+### 5週目(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
   - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
   - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
