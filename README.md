@@ -46,7 +46,7 @@
 ### 6週目予定(5/30, 6/1)
 - [Re:verserの色変更](https://docs.google.com/document/d/1lHLePfDQFpzPQOz7mtcPhX8A3s2_m4hV81RQQlL9dx0/)
   - [不要なフォルダをGitの管理から外す](https://qiita.com/ytkt/items/a2afd6be8e4f06c1ea25)
-- ホップホップのプレイヤーの移動を考える
+- [ホップホップのプレイヤーの移動を考える](https://docs.google.com/document/d/1HsfeRLiQpM2VJhDAAqh39HyptWSHxXlMcLBNMqF3De4/)
 
 ### 5週目(5/23, 25)
 - Unityのプロジェクト作成、GitHubへのパブリッシュ、共有
