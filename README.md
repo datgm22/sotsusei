@@ -48,7 +48,7 @@
 
 ### 話題
 - [Unity1週間ゲームジャム](https://twitter.com/naichilab/status/1659879548283162624) 6/19(月) 0:00から
-- [ワンデイゲームジャム](https://twitter.com/kayac_inc/status/1666277923442290688) 7/1(土)
+- [ワンデイゲームジャム](https://casual-games.kayac.com/) 7/1(土)
 
 
 ### 7週目予定(6/6, 8)
