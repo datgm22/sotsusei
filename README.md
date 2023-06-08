@@ -55,6 +55,7 @@
 - [x] ホップホップのプレイヤーの移動の仕上げ
 - Re:verserの重力反転を実装
 - 中間発表までの作業の検討
+- [シェーダーグラフ](https://docs.google.com/document/d/1zGbjFkl0ezBchauLPTYo7yyz2aDsVTv8rG23yO_T5YA/)
 
 #### 6/8, 9
 - ホップホップのミス、アイテム、ゴールなどのギミックの作成
