@@ -44,6 +44,14 @@
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
+## 8週目
+
+### 予定
+- 中間発表のプランを考えて、残り作業を決める
+- ホップホップの仕掛けを１つモデルケースで作成(解決済みならお任せする)
+- Re:Verserのプレイヤーの移動調査の続き
+
+
 ## 5～7週目 開発
 
 ### 話題
@@ -54,7 +62,6 @@
 ### 7週目予定(6/6, 8)
 - [x] ホップホップのプレイヤーの移動の仕上げ
 - Re:verserの重力反転を実装
-- 中間発表までの作業の検討
 - [シェーダーグラフ](https://docs.google.com/document/d/1zGbjFkl0ezBchauLPTYo7yyz2aDsVTv8rG23yO_T5YA/)
 
 #### 6/8, 9
