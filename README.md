@@ -44,7 +44,7 @@
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
-## 8週目
+## 8週目(6/13, 15)
 
 ### 話題
 - プランナーを検討している人向け[ゲーム企画書もくもく会](https://twitter.com/GC_koushien/status/1667079085758074882)
