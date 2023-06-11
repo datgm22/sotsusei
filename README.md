@@ -48,6 +48,7 @@
 
 ### 話題
 - プランナーを検討している人向け[ゲーム企画書もくもく会](https://twitter.com/GC_koushien/status/1667079085758074882)
+- [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
 ### 予定
 - 中間発表のプランを考えて、残り作業を決める
