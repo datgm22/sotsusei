@@ -47,6 +47,7 @@
 ## 8週目(6/13, 15)
 
 ### 話題
+- [GIGAZINE. 背景をStable Diffusionが自動生成する2Dアクションゲーム「Dimension Hopper」が登場、制作者が舞台裏を語る](https://gigazine.net/news/20230613-dimension-hopper/)
 - プランナーを検討している人向け[ゲーム企画書もくもく会](https://twitter.com/GC_koushien/status/1667079085758074882)
 - [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
