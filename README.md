@@ -44,6 +44,24 @@
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 
+## 9週目(6/20, 22)
+
+### 予定
+- 中間発表の内容をまとめる
+  - 表紙はスクリーンショット＋太めの文字でタイトル、チーム名。その他、コンパクトにまとめられるなら基本情報やコンセプト
+  - ゲームが目指している面白さや世界観
+  - 以降は試遊版で説明可能
+    - ゲーム画面紹介
+    - 操作説明とルール
+    - 面白いと思える場面のデモプレイ
+  - 画面レイアウト、キャラクター、UIの作成希望について
+    - 作成して欲しい項目
+    - 3Dなのか2Dなのか
+    - 欲しいデータ形式
+      - 3Dなら大きさ
+      - 2Dならピクセル数とアニメ枚数
+  - 実行ファイルの場所
+
 ## 8週目(6/13, 15)
 
 ### 話題
@@ -51,7 +69,7 @@
 - プランナーを検討している人向け[ゲーム企画書もくもく会](https://twitter.com/GC_koushien/status/1667079085758074882)
 - [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
-### 予定
+### 内容
 - 中間発表のプランを考えて、残り作業を決める
 - ホップホップの仕掛けを１つモデルケースで作成(解決済みならお任せする)
 - Re:Verserのプレイヤーの移動調査の続き
