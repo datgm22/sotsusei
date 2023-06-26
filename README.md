@@ -26,7 +26,6 @@
   - 中間発表会に向けて　[わかりやすい説明のための10の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku)
 
 ## 企画決定までの流れ
-
 - 1年生で検討していた企画について現状を整理
 - 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
@@ -43,6 +42,19 @@
 - [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing)
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
+
+## 10週目(6/27, 29)
+
+### 予定 6/27
+- 3時限目 発表会仕上げ
+- 4時限目 中間発表会
+  - 1チームあたり、準備から交代まで10分（発表5分程度、準備と質疑応答と撤収5分)
+
+### 予定6/29
+- 振り返り
+- 発注素材の詳細の検討
+- ゲームクリエイター甲子園の応募準備(応募するチームのみ)
+
 
 ## 9週目(6/20, 22)
 
