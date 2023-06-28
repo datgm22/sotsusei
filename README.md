@@ -20,15 +20,6 @@
 - [Unity用のFBXファイルをMayaで出力する](https://docs.google.com/document/d/1X-Ew4g2jvXaGmxpctjim81StWgCAIz31DQqB_Y3IcyU/)
 
 
-## 短期目標
-- 10回目 6/27(火) 4時限目 中間発表会
-  - ゲームプログラム、ゲームCG合同でそれぞれのチームの成果物をプレゼン
-  - 中間発表会に向けて　[わかりやすい説明のための10の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku)
-
-## 企画決定までの流れ
-- 1年生で検討していた企画について現状を整理
-- 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
-
 ## 参考
 - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
 - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
@@ -45,15 +36,21 @@
 
 ## 10週目(6/27, 29)
 
-### 予定 6/27
+### 予定6/29
+- 試遊と振り返り
+- DATフェスタの仕様検討
+- 発注素材の詳細の検討
+- ゲームクリエイター甲子園の応募準備(応募するチームのみ)
+
+### 6/27
 - 3時限目 発表会仕上げ
 - 4時限目 中間発表会
   - 1チームあたり、準備から交代まで10分（発表5分程度、準備と質疑応答と撤収5分)
 
-### 予定6/29
-- 振り返り
-- 発注素材の詳細の検討
-- ゲームクリエイター甲子園の応募準備(応募するチームのみ)
+## 短期目標
+- 10回目 6/27(火) 4時限目 中間発表会
+  - ゲームプログラム、ゲームCG合同でそれぞれのチームの成果物をプレゼン
+  - 中間発表会に向けて　[わかりやすい説明のための10の鉄則](https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku)
 
 
 ## 9週目(6/20, 22)
@@ -226,7 +223,7 @@
 - Asset Storeで`free sky`で検索した空
 - Post Processing
 
-### 1日目予定
+### 1日目
 - 企画構想とWBSの作成
   - 企画構想をまとめた上、金曜日にWBSをまとめることを目標に作業
   - 資料はGoogleドキュメント、スライド、スプレッドシートなどまとめやすいものを選ぶ。まずはGoogleドキュメントにまとめて必要に応じて他のツールの利用を考えるのがよさそう
@@ -259,6 +256,10 @@
 
 
 ## 1週目
+
+### 企画決定までの流れ
+- 1年生で検討していた企画について現状を整理
+- 各企画の進捗と個々人の関与の具合に応じて、企画を継続するか、一旦終了させて新規の企画とチームで進めるかを検討する
 
 ### 話題
 - [Unreal Editor for Fortnite (UEFN)](https://dev.epicgames.com/documentation/ja-jp/uefn/unreal-editor-for-fortnite-documentation)
