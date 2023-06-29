@@ -42,9 +42,15 @@
   - [中間発表会コメント](https://docs.google.com/document/d/1-tPfmey0bmG9dUM1pXcfqMtP7Un5lM_i0K1H116usvM/)のひな型をコピー
   - コピーしたドキュメントを、リンクを知っている全員に変更して、URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へ報告
   - [講師コメント](https://docs.google.com/document/d/1stFFEDDttvGfXK2dazANt2IXCh00YwAGGZKS_vN1nuU/)
-- DATフェスタの仕様検討
-- 発注素材の詳細の検討
+- DATフェスタの仕様検討。Googleドキュメントなどに、箇条書きでまとめる
+  - 展示する最小構成バージョン(MVP)
+  - 理想バージョン
+- 発注素材の詳細の書き出し
+  - 現在使っている仮素材とExcelやGoogleスプレッドシートの一覧をまとめる
 - ゲームクリエイター甲子園の応募準備(応募するチームのみ)
+  - 応募用の動画
+  - ソースコードのとりまとめ
+  - サムネイル用画像(1920x1080)
 
 ### 6/27
 - 3時限目 発表会仕上げ
