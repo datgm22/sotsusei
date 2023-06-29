@@ -41,6 +41,7 @@
 - 試遊と振り返り
   - [中間発表会コメント](https://docs.google.com/document/d/1-tPfmey0bmG9dUM1pXcfqMtP7Un5lM_i0K1H116usvM/)のひな型をコピー
   - コピーしたドキュメントを、リンクを知っている全員に変更して、URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へ報告
+  - [講師コメント](https://docs.google.com/document/d/1stFFEDDttvGfXK2dazANt2IXCh00YwAGGZKS_vN1nuU/)
 - DATフェスタの仕様検討
 - 発注素材の詳細の検討
 - ゲームクリエイター甲子園の応募準備(応募するチームのみ)
