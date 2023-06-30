@@ -33,6 +33,7 @@
 - [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing)
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
+- [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
 ## 10週目(6/27, 29)
 
