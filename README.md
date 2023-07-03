@@ -35,9 +35,23 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
+## 11週目(7/4, 6)
+
+### 予定
+- DATフェスタの仕様検討。Googleドキュメントなどに、箇条書きでまとめる
+  - 展示する最小構成バージョン(MVP)
+  - 理想バージョン
+- 発注素材の詳細の書き出し
+  - 現在使っている仮素材とExcelやGoogleスプレッドシートの一覧をまとめる
+- ゲームクリエイター甲子園の応募準備(応募するチームのみ)
+  - 応募用の動画
+  - ソースコードのとりまとめ
+  - サムネイル用画像(1920x1080)
+
+
 ## 10週目(6/27, 29)
 
-### 予定6/29
+### 6/29
 - 発表資料 `Z:\2023\student\sotsusei`
 - 試遊と振り返り
   - [中間発表会コメント](https://docs.google.com/document/d/1-tPfmey0bmG9dUM1pXcfqMtP7Un5lM_i0K1H116usvM/)のひな型をコピー
