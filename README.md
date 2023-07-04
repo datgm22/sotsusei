@@ -39,6 +39,7 @@
 
 ### 予定
 - DATフェスタの仕様検討。Googleドキュメントなどに、箇条書きでまとめる
+  - ドキュメントの共有URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
   - 展示する最小構成バージョン(MVP)
   - 理想バージョン
 - 発注素材の詳細の書き出し
