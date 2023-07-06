@@ -55,6 +55,7 @@
   - スプレッドシートで以下をまとめる
     - フォルダーやファイル名、画像のサイズや条件、優先順位、どういう場面で使うかや演出の意図や指定したいことを記載
     - 使用場面のスクリーンショットを添える(できれば)
+  - 発注資料ができたら共有してこちらへ[URL](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)を報告
 - ゲームクリエイター甲子園の応募準備(応募するチームのみ)
   - 応募用の動画
   - ソースコードのとりまとめ
