@@ -55,7 +55,7 @@
   - スプレッドシートで以下をまとめる
     - フォルダーやファイル名、画像のサイズや条件、優先順位、どういう場面で使うかや演出の意図や指定したいことを記載
     - 使用場面のスクリーンショットを添える(できれば)
-  - 発注資料ができたら共有して[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へURLを報告
+  - 発注資料ができたら共有して[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを報告
 - ゲームクリエイター甲子園の応募準備(応募するチームのみ)
   - 応募用の動画
   - ソースコードのとりまとめ
@@ -69,7 +69,7 @@
 - 発表資料 `Z:\2023\student\sotsusei`
 - 試遊と振り返り
   - [中間発表会コメント](https://docs.google.com/document/d/1-tPfmey0bmG9dUM1pXcfqMtP7Un5lM_i0K1H116usvM/)のひな型をコピー
-  - コピーしたドキュメントを、リンクを知っている全員に変更して、URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSe5OMfKZjLNLYv0U5BbUoH8vfAeRe069TZuiyLHYNjqp8wIJA/viewform?usp=sf_link)へ報告
+  - コピーしたドキュメントを、リンクを知っている全員に変更して、URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
   - [講師コメント](https://docs.google.com/document/d/1stFFEDDttvGfXK2dazANt2IXCh00YwAGGZKS_vN1nuU/)
 - DATフェスタの仕様検討。Googleドキュメントなどに、箇条書きでまとめる
   - 展示する最小構成バージョン(MVP)
