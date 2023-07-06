@@ -35,6 +35,11 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
+## 12週目(7/11, 13)
+
+### 7/11 締め切り
+- 発注素材の詳細の書き出し
+
 ## 11週目(7/4, 6)
 
 ### 7/4 
@@ -48,7 +53,7 @@
     - 残りを理想バージョンにして、優先順位をつけて並び替える
 
 ### 7/6
-- 発注素材の詳細の書き出し
+- 発注素材の詳細の書き出し 7/11(火)に一度提出
   - 現在使っている仮素材とExcelやGoogleスプレッドシートの一覧をまとめる
   - 直接、開発プロジェクトに上書きコピーすれば済むように、フォルダーとファイル名を構成しておく(Unityなら半角英数)
   - 画像は、UI, キャラクター, マップなどで、適度に分類してフォルダー分けする
