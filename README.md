@@ -44,7 +44,6 @@
 - DATフェスタ版開発スケジュール検討
 - 2コマ目　ゲームCGと打ち合わせ
   - [探偵はウイルス](https://docs.google.com/spreadsheets/d/111Ip_p30SLAW-eM1BLujyWjpHC_xQKZ5da1BDt88HWI)
-    - <a href="file:///Y:\2023年\ゲーム学科\卒業制作\中間発表会\Tantei_試遊版プレイ可能\作ってほしいもの一覧">元素材</a>
   - [Re:Verser](https://docs.google.com/spreadsheets/d/1JYdAXVe4Ke9mVMY3LmjdnQVYnpU-xeB3agqBKxxPO98/)
 
 ## 11週目(7/4, 6)
