@@ -43,6 +43,8 @@
 ### 7/13
 - DATフェスタ版開発スケジュール検討
 - 2コマ目　ゲームCGと打ち合わせ
+  - [探偵はウイルス](https://docs.google.com/spreadsheets/d/111Ip_p30SLAW-eM1BLujyWjpHC_xQKZ5da1BDt88HWI)
+  - [Re:Verser](https://docs.google.com/spreadsheets/d/1JYdAXVe4Ke9mVMY3LmjdnQVYnpU-xeB3agqBKxxPO98/)
 
 ## 11週目(7/4, 6)
 
