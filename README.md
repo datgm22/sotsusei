@@ -37,6 +37,10 @@
 
 ## 13週目(7/18, 20)
 
+### 話題
+- [任天堂. 開発者に訊きました. ピクミン４](https://www.nintendo.co.jp/interview/ampya/index.html)
+
+
 ### 7/20
 - 2時限目 Re:Start 企画打ち合わせ
 
