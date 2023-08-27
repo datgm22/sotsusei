@@ -35,11 +35,16 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
+## 14週目(8/29, 31)
+
+### 予定
+- 29 夏休み成果の発表とコース内共有
+- 31 チーム打ち合わせ
+
 ## 13週目(7/18, 20)
 
 ### 話題
 - [任天堂. 開発者に訊きました. ピクミン４](https://www.nintendo.co.jp/interview/ampya/index.html)
-
 
 ### 7/20
 - 2時限目 Re:Start 企画打ち合わせ
