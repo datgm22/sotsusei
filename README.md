@@ -35,6 +35,12 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
+## 15週目(9/5, 7)
+
+### 予定
+- 最新のスクリーンショットの提出
+- DATフェスタの展示計画と作業
+
 ## 14週目(8/29, 31)
 
 ### 話題
@@ -45,7 +51,7 @@
 - [ゲームクリエイターズギルド. 「プランナー志望のポートフォリオはどうやって作るべき？」](https://game.creators-guild.com/g4c/26429/ )
 
 
-### 予定
+### 内容
 - 29 夏休み成果の共有。必要に応じて打ち合わせ
 - 31 チーム打ち合わせ
   - ホップホップ
