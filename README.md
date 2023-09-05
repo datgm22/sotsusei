@@ -35,6 +35,10 @@
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
 - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
+## 福岡ゲームコンテスト(1/5必着)
+- 応募できそうな企画は応募を検討
+- 年内に発送
+
 ## 15週目(9/5, 7)
 
 ### 予定
