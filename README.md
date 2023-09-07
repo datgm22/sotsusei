@@ -43,6 +43,7 @@
 
 ### 話題
 - [RAPTEX](https://raptex.jp/)
+- [Mind Render](https://mindrender.jp/)
 
 ### 予定
 - 最新のスクリーンショットの提出
