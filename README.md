@@ -38,6 +38,7 @@
 ## 自習可能なゲームエンジン
 - [ティラノビルダー](https://b.tyrano.jp/)
 - [ティラノスクリプト](https://tyrano.jp/)
+- [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
 - [Mind Render](https://mindrender.jp/)
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
