@@ -50,6 +50,10 @@
 
 ## 後期1週目(10/3, 5)
 - DATフェスタの展示計画の聞き取り
+- ゲームクリエイター甲子園2023 10/31締め切り
+  - 動画はWin + Gキー、あるいは[OBS Studio](https://obsproject.com/ja)
+  - 動画編集は[AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)
+    - [AviUtlの易しい使い方](https://aviutl.info/)
 - 作業
 - 4時限目、共同制作の打ち合わせ
 
