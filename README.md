@@ -50,11 +50,8 @@
 
 ## 後期1週目(10/3, 5)
 - DATフェスタの展示計画の聞き取り
-- 別企画
-  - [ティラノビルダー](https://b.tyrano.jp/) ノベル、脱出ゲーム
-  - [Wolf RPG Editor](https://silversecond.com/WolfRPGEditor/) RPG開発ツール
-  - [GDevelop](https://gdevelop.io/ja-jp) 2Dアクション向け
 - 作業
+
 
 ## 15週目(9/5, 7)
 
