@@ -55,7 +55,7 @@
   - 動画編集は[AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/)
     - [AviUtlの易しい使い方](https://aviutl.info/)
 - 作業
-- 4時限目、共同制作の打ち合わせ
+- 火曜日4時限目、共同制作の打ち合わせ
 
 
 ## 15週目(9/5, 7)
