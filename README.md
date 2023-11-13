@@ -51,6 +51,9 @@
 
 ## 後期6週目(11/14, 16)
 
+### 話題
+- [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
+
 ### 予定
 - DATフェスタ展示版の提出
   - 展示版の実行ファイルを以下の要領でコピー。すでに展示版になっていれば作業は不要
