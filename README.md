@@ -65,7 +65,9 @@
     - その中に実行ファイルをコピー
   - インストカードの画像データを実行フォルダー内にコピー
 - DATフェスタ版の講評
-  - アンケート結果のURLをSlackに貼り付ける
+  - [仕分けたアンケート結果](https://docs.google.com/document/d/1fkIyTwXR_dObwxuvfFDH7nYcGPeeZimdvmBfxMHJTLA/)
+    - 重複やどの作品について書かれたものが不明瞭なコメント、コメントがないものは省略しています。実際の結果は生データを参照してください。
+  - [アンケート結果生データ](https://docs.google.com/spreadsheets/d/1RsFj02Uyn219BXdtD-EfFSyQx9czpxZ5sp5DkyiHUqk/edit?usp=sharing)
 - プロジェクトの提出
   - Unityの場合
     - GitHubにコミットしてあればGitHubのURLをSlackに貼り付ける
