@@ -1,9 +1,12 @@
+
+
 # 卒業制作情報共有用リポジトリ(2022年度入学生)
 
 - [シラバス](https://drive.google.com/file/d/13StheBgvLiuyK6YiZptmtXMQ6TlpnEQP/)
 - [Google Meet](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com/)
 - [火木 講義日程](sch.md)
+- [URL報告](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
 
 ## 参考URL
 - [Unity Japan. 配置を超加速する11のテクニック](https://youtu.be/lrQAhLi8bOk)
@@ -62,6 +65,7 @@
     - その中に実行ファイルをコピー
   - インストカードの画像データを実行フォルダー内にコピー
 - DATフェスタ版の講評
+  - アンケート結果のURLをSlackに貼り付ける
 - プロジェクトの提出
   - Unityの場合
     - GitHubにコミットしてあればGitHubのURLをSlackに貼り付ける
