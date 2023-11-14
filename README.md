@@ -69,7 +69,10 @@
       - Unityプロジェクトをデスクトップにコピーする
       - デスクトップにコピーしたUnityプロジェクトフォルダーを開いて .gitとLibraryフォルダーを削除する
       - デスクトップにコピーしたプロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
-      - 圧縮したzipファイルを指定のフォルダーにコピー
+      - 圧縮したzipファイルを`Z:\2023\student\sotsusei\DATフェスタ展示版プロジェクト一式`フォルダーにコピー
+    - Unity以外の場合
+      - プロジェクトフォルダーを右クリックして 7-Zip > 圧縮を選んでzip形式で圧縮
+      - 圧縮したzipファイルを`Z:\2023\student\sotsusei\DATフェスタ展示版プロジェクト一式`フォルダーにコピー
   - あわせてこちらを参照→[企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 
