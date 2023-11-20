@@ -52,13 +52,28 @@
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
-## 後期6週目(11/14, 16)
+## 後期7週目(11/21, 23)
 
 ### 話題
 - [はがくん@薬剤師＆Flutterエンジニア. もう初回コードレビューはAIに任せる時代になった - CodeRabbit -](https://zenn.dev/minedia/articles/7928ef7545b393)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
 ### 予定
+- [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
+- Re:Verserの演出とプレイヤー移動の検討
+- 参考
+  - [DATフェスタ版 講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
+  - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+
+
+
+
+## 後期6週目(11/14, 16)
+
+### 話題
+- [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
+
+### 内容
 - DATフェスタ展示版の提出
   - 展示版の実行ファイルを以下の要領でコピー。すでに展示版になっていれば作業は不要
     - `X:\2023年\ゲーム学科\卒業制作\実行ファイル`に提出
