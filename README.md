@@ -58,6 +58,12 @@
 - [はがくん@薬剤師＆Flutterエンジニア. もう初回コードレビューはAIに任せる時代になった - CodeRabbit -](https://zenn.dev/minedia/articles/7928ef7545b393)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
+### ゲームクリエイター甲子園
+- [疾陰の駆者](https://gameparade.creators-guild.com/works/1766)
+- [RECAPTURE](https://gameparade.creators-guild.com/works/1772)
+- [生き残りゲーム](https://gameparade.creators-guild.com/works/1686) ゲーム
+- [生き残りゲーム](https://gameparade.creators-guild.com/works/1237) キャラクター（2D・3D）
+
 ### 予定
 - [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 - Re:Verserの改善
