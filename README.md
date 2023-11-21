@@ -68,6 +68,7 @@
 - [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 - Re:Verserの改善
   - [DATフェスタ版 講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
+  - [Re:Verserの改良](https://docs.google.com/document/d/1PfLysIX27EVjJxna8IxSteexnKNauHBg2LvCDcqQd0Q/)
 - CaveEscape
   - 未使用のデータを削除してプロジェクト、および実行ファイルのサイズを小さくする
   - テクスチャサイズが2048を超えているものは、原則として1024以内にする
