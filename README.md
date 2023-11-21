@@ -58,7 +58,7 @@
 - [はがくん@薬剤師＆Flutterエンジニア. もう初回コードレビューはAIに任せる時代になった - CodeRabbit -](https://zenn.dev/minedia/articles/7928ef7545b393)
 - [Our first ever e-book for level designers is here](https://discussions.unity.com/t/our-first-ever-e-book-for-level-designers-is-here/310631)
 
-### ゲームクリエイター甲子園
+### ゲームクリエイター甲子園応募作品
 - [疾陰の駆者](https://gameparade.creators-guild.com/works/1766)
 - [RECAPTURE](https://gameparade.creators-guild.com/works/1772)
 - [生き残りゲーム](https://gameparade.creators-guild.com/works/1686) ゲーム
