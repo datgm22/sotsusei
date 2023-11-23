@@ -52,6 +52,24 @@
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
+## 後期8週目(11/28, 30)
+
+### 予定
+- DVDの作成についての確認とオーダー資料の提出
+- [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
+- Re:Verserの改善
+  - [DATフェスタ版 講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
+  - [Re:Verserの改良](https://docs.google.com/document/d/1PfLysIX27EVjJxna8IxSteexnKNauHBg2LvCDcqQd0Q/)
+- CaveEscape
+  - 未使用のデータを削除してプロジェクト、および実行ファイルのサイズを小さくする
+  - テクスチャサイズが2048を超えているものは、原則として1024以内にする
+    - 今回のプロジェクトは1920x1080ピクセルを想定している。よって、1024ピクセルは画面の縦方向いっぱいの大きさ。描画サイズからオーバースペック
+- 参考
+  - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+
+
+
+
 ## 後期7週目(11/21)
 
 ### 話題
@@ -64,7 +82,7 @@
 - [生き残りゲーム](https://gameparade.creators-guild.com/works/1686) ゲーム
 - [生き残りゲーム](https://gameparade.creators-guild.com/works/1237) キャラクター（2D・3D）
 
-### 予定
+### 内容
 - [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 - Re:Verserの改善
   - [DATフェスタ版 講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
