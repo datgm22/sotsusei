@@ -54,6 +54,10 @@
 
 ## 後期8, 7週目(11/28, 30)
 
+### 話題
+- [テトラポッド葉山. 【日本語訳】レベルデザイン～より良いレベルを求めて～](https://my-syumi-game.notion.site/my-syumi-game/78aeea083db140de96616e2cc6b089ce)
+
+
 ### DVDラベルとパッケージ
 - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
