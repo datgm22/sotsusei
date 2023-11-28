@@ -52,13 +52,14 @@
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
-## 後期8週目(11/28, 30)
+## 後期8, 7週目(11/28, 30)
 
 ### DVDラベルとパッケージ
 - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
 
 ### 予定
+- 金曜日に個人研究の聞き取りをするので検討しておく
 - DVDの作成についての確認とオーダー資料の提出
 - [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 - Re:Verserの改善
