@@ -57,6 +57,7 @@
 ### DVDラベルとパッケージ
 - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+- [Unityで印刷用の画像データを作る](https://docs.google.com/document/d/10VCUBlNMHi9WpbBCkIT1VahyBo3mT5dvpZPL2puJcQ8/)
 
 ### 予定
 - 金曜日に個人研究の聞き取りをするので検討しておく
