@@ -56,6 +56,7 @@
 
 ### 話題
 - [テトラポッド葉山. 【日本語訳】レベルデザイン～より良いレベルを求めて～](https://my-syumi-game.notion.site/my-syumi-game/78aeea083db140de96616e2cc6b089ce)
+- [GB Studio](https://www.gbstudio.dev/)
 
 
 ### DVDラベルとパッケージ
