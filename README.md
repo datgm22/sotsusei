@@ -67,6 +67,7 @@
 ### 予定
 - 金曜日に個人研究の聞き取りをするので検討しておく
 - DVDの作成についての確認とオーダー資料の提出
+  - DVDパッケージ要望書の共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から送信
 - [ホップホップ改の検討](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 - Re:Verserの改善
   - [DATフェスタ版 講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
