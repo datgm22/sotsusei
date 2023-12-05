@@ -56,6 +56,7 @@
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
+- [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 
 ## 後期8, 7週目(11/28, 30)
 
