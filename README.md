@@ -57,6 +57,7 @@
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
+- [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
 ### 予定
 - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
