@@ -61,7 +61,9 @@
 
 ### 予定
 - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
-- [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)
+- [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
+- DVDパッケージ打ち合わせ
+- 作業
 
 ## 後期8, 7週目(11/28, 30)
 
@@ -75,7 +77,7 @@
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
 - [Unityで印刷用の画像データを作る](https://docs.google.com/document/d/10VCUBlNMHi9WpbBCkIT1VahyBo3mT5dvpZPL2puJcQ8/)
 
-### 予定
+### 内容
 - 金曜日に個人研究の聞き取りをするので検討しておく
 - DVDの作成についての確認とオーダー資料の提出
   - DVDパッケージ要望書の共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から送信
