@@ -48,7 +48,7 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 
-## [福岡ゲームコンテスト(1/5必着)](https://www.gff.jp/)
+## [福岡ゲームコンテスト(1/5必着)]([https://www.gff.jp/](http://fukuoka-game.com/archives/1764/))
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
