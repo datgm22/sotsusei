@@ -55,6 +55,7 @@
 ## 後期9, 8週目(12/5, 7)
 
 ### 話題
+- [Publickey. GitHub、Copilotの将来像となる「Copilot Workspace」発表。人間がコードを書くことなく、Copilotが仕様作成からコード作成、デバッグまで実行。GitHub Universe 2023](https://publickey1.jp/blog/23/githubcopilotcopilot_workspacecopilotcopilotgithub_universe_2023.html)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
