@@ -54,6 +54,9 @@
 
 ## 後期10, 9週目(12/12, 14)
 
+### 話題
+- ドキュメント翻訳システム [Weblate](https://weblate.org/ja/)
+
 ### 1週間ゲームジャム
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)が12/18から開催
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
