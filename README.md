@@ -69,8 +69,9 @@
 ### 予定
 - もくもく会方式
   - 開始時に現状と今日やることを簡単に報告
+    - [カタチナゲル企画概要書](https://docs.google.com/document/d/16itfVpbCPmUwejBRoO4P47o-NotTgGN--UWc2rGBhIk/)
+    - [カタチオクル企画概要書](https://docs.google.com/document/d/1g4hKMjrdqWvZjH7tnUw5zi7cqxxYsuAI91VAvHp6TUU/)
   - 終了時に今日やったことを簡単に報告
-  - [カタチオクル企画概要書](https://docs.google.com/document/d/1g4hKMjrdqWvZjH7tnUw5zi7cqxxYsuAI91VAvHp6TUU/)
 - 1週間ゲームジャム「おくる」
   - [提出を前提としたUnityプロジェクトの作成](https://docs.google.com/document/d/1cKHfLM4ADKpJm51GapFTZa5gZbMCzWXGLcjtmvHFEao/)
   - [Unity1週間ゲームジャム12月](https://docs.google.com/document/d/1s14VSICyNxxBKNxcswlGlitX1P0MV1SW8mUa_Vm3OfY/)の方針
