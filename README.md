@@ -55,6 +55,7 @@
 ## 後期12, 11週目(1/9, 11)
 
 ### 話題
+- [伊藤 豊. 龍が如くコード例](https://twitter.com/YutakaIto_RGG/status/1745050214476677561)
 - [ゲームクリエイター甲子園2023 受賞作品一覧](https://www.creators-guild.com/gck2023/award)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks/61)
 
