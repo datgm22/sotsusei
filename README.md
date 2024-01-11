@@ -62,7 +62,7 @@
 - 正月休みの成果報告とまとめ
   - [カタチナゲル](https://am1.games/katachi/)
 - 作品ページ用の素材作成
-  - [作成の手引き]()
+  - [作成の手引き](https://github.com/datgm22/sotsusei/blob/main/make_web.md)
   - 実行ファイルは圧縮して100MB以下にする。超える場合はふりーむなどのサイトへ公開したURLを報告してもらうか、実行ファイルは不掲載とする
   - 参考 [2021年度生 卒業制作作品集](https://datgm21.github.io/works/)
 
