@@ -52,6 +52,13 @@
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
+## 後期13, 12週目(1/16)
+
+### DVDラベルとパッケージ
+- [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+
+
 ## 後期12, 11週目(1/9, 11)
 
 ### 話題
