@@ -54,6 +54,16 @@
 
 ## 後期13, 12週目(1/16)
 
+### 提出状況
+
+|作品|DVDラベル|DVDパッケージ|紹介ページ|実行ファイル|
+|:-:|:-:|:-:|:-:|:-:|
+|Cave Escape|-|-|-|-|
+|ホップホップ|-|-|-|-|
+|探偵はウイルス|-|-|-|-|
+|ReVerser|-|-|-|-|
+
+
 ### DVDラベルとパッケージ
 - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
