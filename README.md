@@ -86,7 +86,7 @@
 - [ゲームクリエイター甲子園2023 受賞作品一覧](https://www.creators-guild.com/gck2023/award)
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks/61)
 
-### 予定
+### 話題
 - 正月休みの成果報告とまとめ
   - [カタチナゲル](https://am1.games/katachi/)
 - 作品ページ用の素材作成
