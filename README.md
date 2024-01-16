@@ -71,6 +71,7 @@
 - DVDラベルとパッケージ
   - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
   - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+  - 学校ロゴは`Z:\student\LOGO`
   - 提出先 `Z:\2023\student\sotsusei\DVDラベル＆パッケージ`の作品名のフォルダー
 - 紹介ページ
   - フォークしてクローンしたリポジトリを書き換えて、プルリクエストを作成する
