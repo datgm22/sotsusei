@@ -69,6 +69,8 @@
   - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
   - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
   - 提出先 `Z:\2023\student\sotsusei\DVDラベル＆パッケージ`の作品名のフォルダー
+- 紹介ページ
+  - フォークしてクローンしたリポジトリを書き換えて、プルリクエストを作成する
 - 実行ファイルのブラッシュアップ
   - `X:\2023年\ゲーム学科\卒業制作\実行ファイル`
   - 最新版のみに整理する
