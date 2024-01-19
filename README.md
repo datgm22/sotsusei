@@ -71,6 +71,7 @@
 - DVDラベルとパッケージ
   - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
   - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+  - [Unityで印刷用の画像データを作る](https://docs.google.com/document/d/10VCUBlNMHi9WpbBCkIT1VahyBo3mT5dvpZPL2puJcQ8/)
   - 学校ロゴは`Z:\student\LOGO`
   - 提出先 `Z:\2023\student\sotsusei\DVDラベル＆パッケージ`の作品名のフォルダー
 - 紹介ページ
