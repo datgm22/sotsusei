@@ -52,7 +52,7 @@
 - 応募できそうな企画は応募を検討
 - 年内に発送
 
-## 後期13, 12週目(1/16)
+## 後期14, 12週目(1/16, 18, 23, 25)
 
 ### 提出状況
 
@@ -68,14 +68,15 @@
 
 
 ### 予定
+- 紹介ページ
+  - フォークしてクローンしたリポジトリを書き換えて、プルリクエストを作成する
+  - プルリクエストの確認
 - DVDラベルとパッケージ
   - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
   - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
   - [Unityで印刷用の画像データを作る](https://docs.google.com/document/d/10VCUBlNMHi9WpbBCkIT1VahyBo3mT5dvpZPL2puJcQ8/)
   - 学校ロゴは`Z:\student\LOGO`
   - 提出先 `Z:\2023\student\sotsusei\DVDラベル＆パッケージ`の作品名のフォルダー
-- 紹介ページ
-  - フォークしてクローンしたリポジトリを書き換えて、プルリクエストを作成する
 - 実行ファイルのブラッシュアップ
   - `X:\2023年\ゲーム学科\卒業制作\実行ファイル`
   - 最新版のみに整理する
