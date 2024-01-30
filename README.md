@@ -84,7 +84,7 @@
   - 容量削減
     - [Audacity](https://www.audacityteam.org/)
     - [碧樂クー. UE4 Tinyなパッケージに挑戦してみよう](https://wakanya.hatenablog.com/entry/TinyPackage)
-Gigabit_million. データ軽量化でやったこと（ティラノビルダー）](https://www.omotsuta.com/post/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%BD%E9%87%8F%E5%8C%96%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%EF%BC%88%E3%83%86%E3%82%A3%E3%83%A9%E3%83%8E%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%89)
+    - [Gigabit_million. データ軽量化でやったこと（ティラノビルダー）](https://www.omotsuta.com/post/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%BD%E9%87%8F%E5%8C%96%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%EF%BC%88%E3%83%86%E3%82%A3%E3%83%A9%E3%83%8E%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%EF%BC%89)
 
 
 
