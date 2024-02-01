@@ -70,8 +70,7 @@
 ### 予定
 - DVDの印刷
 - 紹介ページ
-  - フォークしてクローンしたリポジトリを書き換えて、プルリクエストを作成する
-  - プルリクエストの確認
+  - [2022年度生 卒業制作作品集](https://datgm22.github.io/works/)
 - DVDラベルとパッケージ
   - [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
   - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
