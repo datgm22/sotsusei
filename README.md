@@ -2,6 +2,7 @@
 
 # 卒業制作情報共有用リポジトリ(2022年度入学生)
 
+- [2022年度生 卒業制作作品集](https://datgm22.github.io/works/)
 - [シラバス](https://drive.google.com/file/d/13StheBgvLiuyK6YiZptmtXMQ6TlpnEQP/)
 - [Google Meet](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com/)
